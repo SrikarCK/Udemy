@@ -3,6 +3,7 @@ public class sumDigit {
         System.out.println("The sum of digits in number 125 is: "+sumDigits(125));
     }
 
+    //Method to sum the digits in a number
     private static int sumDigits(int number){
         if (number < 10 ){
             return -1;
