@@ -17,6 +17,6 @@ public class sumDigit {
             //Drop the least significant number.
             number /= 10;
         }
-        return sum;//gyfjfgyj
+        return sum;
     }
 }
