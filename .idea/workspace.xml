@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f65096-7a68-4471-8a6c-72f3e8b66d5b" name="Default Changelist" comment="New Challenge">
+    <list default="true" id="92f65096-7a68-4471-8a6c-72f3e8b66d5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Solution/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/SharedDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution/sumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solution/sumDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution/FirstLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solution/FirstLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy/FirstLastDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy/FirstLastDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Udemy/sumDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Udemy/sumDigit.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +21,7 @@
     <favorites_list name="HackerRank" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Solution/sumDigit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,8 +56,11 @@
         <option value="$PROJECT_DIR$/Solution/SumOdd.java" />
         <option value="$PROJECT_DIR$/Solution/sample.java" />
         <option value="$PROJECT_DIR$/Solution/numberPalindrome.java" />
-        <option value="$PROJECT_DIR$/Solution/FirstLastDigitSum.java" />
         <option value="$PROJECT_DIR$/Solution/sumDigit.java" />
+        <option value="$PROJECT_DIR$/Solution/FirstLastDigitSum.java" />
+        <option value="$PROJECT_DIR$/Solution/EvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/Solution/SharedDigit.java" />
+        <option value="$PROJECT_DIR$/Solution/LastDigitChecker.java" />
       </list>
     </option>
   </component>
@@ -98,8 +96,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,30 +118,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sumDigit">
-    <configuration name="Challenge5and3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenge5and3" />
+  <component name="RunManager" selected="Application.LastDigitChecker">
+    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenDigitSum" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOdd" />
+    <configuration name="FirstLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstLastDigitSum" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numberPalindrome" />
+    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample" />
+    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastDigitChecker" />
+        <item itemvalue="Application.SharedDigit" />
+        <item itemvalue="Application.EvenDigitSum" />
         <item itemvalue="Application.sumDigit" />
-        <item itemvalue="Application.numberPalindrome" />
-        <item itemvalue="Application.sample" />
-        <item itemvalue="Application.SumOdd" />
-        <item itemvalue="Application.Challenge5and3" />
+        <item itemvalue="Application.FirstLastDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +208,8 @@
       <workItem from="1546473503840" duration="573000" />
       <workItem from="1546543292892" duration="6588000" />
       <workItem from="1546584284675" duration="1372000" />
+      <workItem from="1546586927611" duration="158000" />
+      <workItem from="1546628373917" duration="3312000" />
     </task>
     <task id="LOCAL-00001" summary="Added new java class interest">
       <created>1546228373852</created>
@@ -232,17 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1546584866913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Comment Added">
+      <created>1546587011161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546587011161</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72794000" />
+    <option name="totallyTimeSpent" value="76264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14270501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14592275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -257,8 +263,9 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32970297" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32970297" />
-      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" weight="0.32178217" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" visible="true" weight="0.32168674" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39036146" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -267,7 +274,6 @@
       <window_info anchor="right" id="Maven" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="7" side_tool="true" type="FLOATING" weight="0.32960597" />
-      <window_info anchor="right" id="Debug" order="8" weight="0.39243877" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,11 +315,26 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new java class interest" />
     <MESSAGE value="New Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Challenge" />
+    <MESSAGE value="Comment Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment Added" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -399,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Solution/FirstLastDigitSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Solution/InterestForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -458,10 +472,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/FirstLastDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Solution/sumDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        <state relative-caret-position="540">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/SharedDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="96" lean-forward="true" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/LastDigitChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
         </state>
       </provider>
     </entry>
