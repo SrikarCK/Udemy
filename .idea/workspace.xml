@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f65096-7a68-4471-8a6c-72f3e8b66d5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution/FactorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/FlourPacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/LargestPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +18,7 @@
     <favorites_list name="HackerRank" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +62,9 @@
         <option value="$PROJECT_DIR$/Solution/FactorPrinter.java" />
         <option value="$PROJECT_DIR$/Solution/PerfectNumber.java" />
         <option value="$PROJECT_DIR$/Solution/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/Solution/FlourPacker.java" />
+        <option value="$PROJECT_DIR$/Solution/LargestPrime.java" />
+        <option value="$PROJECT_DIR$/Solution/DiagonalStar.java" />
       </list>
     </option>
   </component>
@@ -82,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +102,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,23 +122,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberToWords">
-    <configuration name="FactorPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorPrinter" />
+  <component name="RunManager" selected="Application.DiagonalStar">
+    <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiagonalStar" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreatestCommonDivisor" />
+    <configuration name="FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlourPacker" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LastDigitChecker" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPrime" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiagonalStar" />
+        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.FlourPacker" />
         <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.FactorPrinter" />
-        <item itemvalue="Application.GreatestCommonDivisor" />
-        <item itemvalue="Application.LastDigitChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,8 @@
       <workItem from="1546543292892" duration="6588000" />
       <workItem from="1546584284675" duration="1372000" />
       <workItem from="1546586927611" duration="158000" />
-      <workItem from="1546628373917" duration="6006000" />
+      <workItem from="1546628373917" duration="6137000" />
+      <workItem from="1546812074925" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="Added new java class interest">
       <created>1546228373852</created>
@@ -248,16 +251,23 @@
       <option name="project" value="LOCAL" />
       <updated>1546633637962</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Challenges">
+      <created>1546637718112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546637718112</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78958000" />
+    <option name="totallyTimeSpent" value="81693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14592275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14806867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -273,7 +283,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" weight="0.32168674" />
+      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" weight="0.9313253" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.39036146" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24973376" />
@@ -542,6 +552,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/DiagonalStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/LargestPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/FlourPacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
