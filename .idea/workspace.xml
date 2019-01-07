@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f65096-7a68-4471-8a6c-72f3e8b66d5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/FlourPacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,6 +64,9 @@
         <option value="$PROJECT_DIR$/Solution/FlourPacker.java" />
         <option value="$PROJECT_DIR$/Solution/LargestPrime.java" />
         <option value="$PROJECT_DIR$/Solution/DiagonalStar.java" />
+        <option value="$PROJECT_DIR$/Solution/Main.java" />
+        <option value="$PROJECT_DIR$/Solution/UserInput.java" />
+        <option value="$PROJECT_DIR$/Solution/MinMax.java" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,16 +95,10 @@
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,16 +119,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalStar">
+  <component name="RunManager" selected="Application.MinMax">
     <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiagonalStar" />
-      <module name="Udemy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlourPacker" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,15 +134,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMax" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserInput" />
       <module name="Udemy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.UserInput" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DiagonalStar" />
         <item itemvalue="Application.LargestPrime" />
-        <item itemvalue="Application.FlourPacker" />
-        <item itemvalue="Application.NumberToWords" />
-        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +211,8 @@
       <workItem from="1546584284675" duration="1372000" />
       <workItem from="1546586927611" duration="158000" />
       <workItem from="1546628373917" duration="6137000" />
-      <workItem from="1546812074925" duration="2604000" />
+      <workItem from="1546812074925" duration="2769000" />
+      <workItem from="1546886640553" duration="3212000" />
     </task>
     <task id="LOCAL-00001" summary="Added new java class interest">
       <created>1546228373852</created>
@@ -258,16 +256,23 @@
       <option name="project" value="LOCAL" />
       <updated>1546637718112</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Challenges">
+      <created>1546815932535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546815932535</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81693000" />
+    <option name="totallyTimeSpent" value="85070000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14806867" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.14802982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -283,8 +288,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" internal_type="SLIDING" order="11" weight="0.9313253" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.39036146" />
+      <window_info anchor="bottom" auto_hide="true" x="21" y="260" width="1398" height="379" id="Run" internal_type="SLIDING" order="11" type="SLIDING" weight="0.37425742" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39009902" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -573,6 +578,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/UserInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
