@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f65096-7a68-4471-8a6c-72f3e8b66d5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Composition/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Encapsulation/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/PolymorphismEx/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/constructors/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution/constructors/VipCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/BillsBurger/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/BillsBurger/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/BillsBurger/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution/BillsBurger/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,10 +21,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Solution/PolymorphismEx/Main.java">
+        <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+            <state relative-caret-position="270">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/DeluxeBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/HealthyBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/Hamburger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -54,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Node.java" />
-        <option value="$PROJECT_DIR$/src/HackerRank/Node.java" />
         <option value="$PROJECT_DIR$/src/HackerRank.java" />
         <option value="$PROJECT_DIR$/src/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/Feet2Inches.java" />
@@ -103,6 +119,10 @@
         <option value="$PROJECT_DIR$/Solution/PolymorphismEx/Car.java" />
         <option value="$PROJECT_DIR$/Solution/PolymorphismEx/Benz.java" />
         <option value="$PROJECT_DIR$/Solution/PolymorphismEx/Main.java" />
+        <option value="$PROJECT_DIR$/Solution/BillsBurger/Hamburger.java" />
+        <option value="$PROJECT_DIR$/Solution/BillsBurger/HealthyBurger.java" />
+        <option value="$PROJECT_DIR$/Solution/BillsBurger/Main.java" />
+        <option value="$PROJECT_DIR$/Solution/BillsBurger/DeluxeBurger.java" />
       </list>
     </option>
   </component>
@@ -135,12 +155,6 @@
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="PolymorphismEx" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,20 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructors.Main" />
-      <module name="Udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Composition.Main" />
       <module name="Udemy" />
@@ -243,13 +244,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BillsBurger.Main" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BillsBurger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +322,7 @@
       <workItem from="1546968894660" duration="456000" />
       <workItem from="1547167427584" duration="49000" />
       <workItem from="1547167566229" duration="166000" />
-      <workItem from="1547222339656" duration="12095000" />
+      <workItem from="1547222339656" duration="14995000" />
     </task>
     <task id="LOCAL-00001" summary="Added new java class interest">
       <created>1546228373852</created>
@@ -366,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546892546488</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New Challenges">
+      <created>1547246336864</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547246336864</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101154000" />
+    <option name="totallyTimeSpent" value="104054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -401,7 +422,7 @@
       <window_info anchor="right" id="Maven" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="7" side_tool="true" type="FLOATING" weight="0.32960597" />
-      <window_info anchor="right" auto_hide="true" x="21" y="260" width="1398" height="379" id="Run" internal_type="SLIDING" order="8" type="SLIDING" weight="0.46423462" />
+      <window_info anchor="right" auto_hide="true" x="21" y="260" width="1398" height="379" id="Run" internal_type="SLIDING" order="8" type="SLIDING" weight="0.40844062" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.15307583" />
@@ -510,28 +531,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Solution/Feet2Centimeters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Solution/sample.java" />
-    <entry file="file://$PROJECT_DIR$/Solution/SumOdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Solution/AreaCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -854,6 +853,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="103" column="39" selection-start-line="103" selection-start-column="39" selection-end-line="103" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/DeluxeBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/HealthyBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/Hamburger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/BillsBurger/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>
